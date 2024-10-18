@@ -26,7 +26,7 @@ The weather monitoring system fetches real-time weather data for specified citie
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/HarshaM07/zeotap-assignment
-   cd weather-monitoring
+  
 
 ### 2. Rule Engine with AST
 ### Objective
