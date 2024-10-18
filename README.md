@@ -25,7 +25,7 @@ The weather monitoring system fetches real-time weather data for specified citie
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/HarshaM07/zeotap-assignment/tree/main
    cd weather-monitoring
 
 ### 2. Rule Engine with AST
@@ -57,12 +57,11 @@ POST /modify_rule: Modifies an existing rule.
 Installation
 
 ### Clone the repository:
-git clone 
+git clone https://github.com/HarshaM07/zeotap-assignment/tree/main
 cd rule-engine
 Install required packages:
 
 
 pip install Flask
-Usage
 ### To run the Rule Engine, execute the following command:
 python app.py
