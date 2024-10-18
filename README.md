@@ -25,7 +25,7 @@ The weather monitoring system fetches real-time weather data for specified citie
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-monitoring.git
+   git clone 
    cd weather-monitoring
 
 ### 2. Rule Engine with AST
@@ -57,7 +57,7 @@ POST /modify_rule: Modifies an existing rule.
 Installation
 
 ### Clone the repository:
-git clone https://github.com/yourusername/rule-engine.git
+git clone 
 cd rule-engine
 Install required packages:
 
