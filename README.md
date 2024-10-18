@@ -54,8 +54,8 @@ POST /create_rule: Creates a rule and stores its AST.
 POST /combine_rules: Combines multiple rules into a single AST.
 POST /evaluate_rule: Evaluates the AST against user attributes.
 POST /modify_rule: Modifies an existing rule.
-Installation
 
+### Installation
 ### Clone the repository:
 git clone https://github.com/HarshaM07/zeotap-assignment
 
