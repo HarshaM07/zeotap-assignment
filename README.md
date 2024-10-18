@@ -30,28 +30,3 @@ POST /evaluate_rule: Evaluates the AST against user attributes.
 
 POST /modify_rule: Modifies an existing rule.
 
-2.# Weather Monitoring System
-
-This is a weather monitoring system that fetches real-time weather data for specified cities using the OpenWeatherMap API. The system monitors temperature conditions and sends email alerts if the temperature exceeds a specified threshold. It also summarizes and visualizes daily weather data.
-
-## Features
-
-- Fetches weather data for multiple cities.
-- Sends email alerts when the temperature exceeds a defined threshold.
-- Summarizes daily weather data, including average, maximum, and minimum temperatures.
-- Visualizes daily average temperatures using Matplotlib.
-
-## Requirements
-
-- Python 3.x
-- Required Python packages:
-  - `requests`
-  - `matplotlib`
-  - `pandas`
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone 
-   cd weather-monitoring
