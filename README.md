@@ -58,10 +58,12 @@ Installation
 
 ### Clone the repository:
 git clone https://github.com/HarshaM07/zeotap-assignment/tree/main
-cd rule-engine
-Install required packages:
 
+### cd rule-engine
 
+### Install required packages:
 pip install Flask
+pip install requirement.txt
+
 ### To run the Rule Engine, execute the following command:
 python app.py
